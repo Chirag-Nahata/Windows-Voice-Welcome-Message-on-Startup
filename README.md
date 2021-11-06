@@ -8,5 +8,5 @@ Steps :
 4. Type shell:startup and press enter
 5. Paste the file in the window that appears.
 6. Restart the computer.
-7. 
+
 Source : https://www.learninglad.com/2016/12/windows10-voice-welcome-message-startup.html
